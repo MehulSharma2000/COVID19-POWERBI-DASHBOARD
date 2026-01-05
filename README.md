@@ -1,4 +1,4 @@
-# COVID19-POWERBI-DASHBOARD
+# covid19-powerbi-dashboard
 
 A comprehensive COVID-19 data analytics and visualization project using Power BI, Excel, and multiple global datasets.  
 This project includes data cleaning, data modelling, DAX calculations, and interactive dashboards for better insights.
